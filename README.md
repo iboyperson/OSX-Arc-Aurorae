@@ -1,5 +1,7 @@
 # OSX Arc Aurorae
-An Aurorae theme to compliment ![@LinxGem33](https://github.com/LinxGem33)'s OSX-Arc gtk themes.
+An Aurorae theme to merge:
+* PapirusDevelopmentTeam's ![arc-kde](https://github.com/PapirusDevelopmentTeam/arc-kde)
+* andreyorst's ![Breezemite](https://github.com/andreyorst/Breezemite)
 
 # Install
 ## General
@@ -9,7 +11,7 @@ While in the clone directory execute this command:
 ## Arch Linux (AUR)
 If you have trizen (or any other AUR Helper):
 
-    trizen -S osx-arc-aurorae-theme 
+    <Insert AUR Helper Here> -S osx-arc-aurorae-theme 
 
 If you do not:
 
